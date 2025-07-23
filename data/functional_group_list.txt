@@ -1,0 +1,26 @@
+hydroxyl
+carbonyl
+carboxylic acid
+amine
+amide
+ester
+phosphate
+thiol
+phenol
+ether
+imine
+enol
+quaternary ammonium
+disulfide
+isoprenyl
+azide
+alkyne
+boronic acid
+maleimide
+fluoro
+nitro
+nitrile
+sulfonate
+urea
+guanidinium
+

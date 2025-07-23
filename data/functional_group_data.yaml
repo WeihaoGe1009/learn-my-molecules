@@ -1,0 +1,1175 @@
+hydroxyl:
+  representative_compound: ethanol
+  chembl_id: CHEMBL280065
+  smiles: CCCCCCCC/C=C\CCCCCCCC(=O)NCCO
+  pKa: null
+  target_interactions:
+  - 4'-phosphopantetheinyl transferase ffp
+  - 786-0
+  - ADMET
+  - ATPase family AAA domain-containing protein 5
+  - Acid ceramidase
+  - Acyl-CoA synthase
+  - Alpha-galactosidase A
+  - Anandamide amidohydrolase
+  - Anthrax lethal factor
+  - Beta-lactamase AmpC
+  - Bloom syndrome protein
+  - Bromodomain-containing protein 4
+  - Cannabinoid CB1 receptor
+  - Cannabinoid CB2 receptor
+  - Casein kinase I delta
+  - Cerebroside-sulfatase
+  - Chromobox protein homolog 1
+  - Cruzipain
+  - Cyclin-dependent kinase 2
+  - Cytochrome P450 1A2
+  - Cytochrome P450 2C19
+  - Cytochrome P450 2C9
+  - Cytochrome P450 2D6
+  - Cytochrome P450 3A4
+  - DNA polymerase beta
+  - DNA polymerase eta
+  - DNA polymerase iota
+  - DNA polymerase kappa
+  - DNA-(apurinic or apyrimidinic site) lyase
+  - Dopamine D1 receptor
+  - Endonuclease 4
+  - Ferritin light chain
+  - Fibroblast
+  - Fibroblast growth factor receptor 3
+  - Flap endonuclease 1
+  - Geminin
+  - Glucose-dependent insulinotropic receptor
+  - Glycogen synthase kinase-3 beta
+  - HEK-293T
+  - HERG
+  - HSP90
+  - HaCaT
+  - Heat shock protein HSP 90-alpha
+  - Histone deacetylase 6
+  - Histone-lysine N-methyltransferase, H3 lysine-9 specific 3
+  - LNCaP
+  - M-phase phosphoprotein 8
+  - MAP kinase ERK2
+  - MCF7
+  - Menin/Histone-lysine N-methyltransferase MLL
+  - Microtubule-associated protein tau
+  - Mycobacterium tuberculosis
+  - NAD-dependent protein deacetylase sirtuin-6
+  - NCI-H460
+  - NCI/ADR-RES
+  - NON-PROTEIN TARGET
+  - Nonstructural protein 1
+  - Nuclear factor NF-kappa-B p105 subunit
+  - Nuclear factor erythroid 2-related factor 2
+  - Peregrin
+  - Peroxisome proliferator-activated receptor alpha
+  - Peroxisome proliferator-activated receptor delta
+  - Plasmodium falciparum
+  - Prelamin-A/C
+  - RAW264.7
+  - RBL-2H3
+  - Rap guanine nucleotide exchange factor 4
+  - Rattus norvegicus
+  - Replicase polyprotein 1ab
+  - SARS-CoV-2
+  - Serine/threonine-protein kinase Aurora-A
+  - Serotonin 2a (5-HT2a) receptor
+  - Serotonin 2b (5-HT2b) receptor
+  - Serotonin 2c (5-HT2c) receptor
+  - Thioredoxin reductase 1, cytoplasmic
+  - Thyroid stimulating hormone receptor
+  - Transcription intermediary factor 1-alpha
+  - Transient receptor potential cation channel subfamily V member 2
+  - Tumor susceptibility gene 101 protein
+  - Tyrosine-protein kinase ABL
+  - Tyrosyl-DNA phosphodiesterase 1
+  - U-251
+  - U2OS
+  - Ubiquitin carboxyl-terminal hydrolase 1
+  - Unchecked
+  - Vanilloid receptor
+carbonyl:
+  representative_compound: acetone
+  chembl_id: CHEMBL14253
+  smiles: CC(C)=O
+  pKa: null
+  target_interactions:
+  - ADMET
+  - Free fatty acid receptor 3
+  - Influenza A virus
+  - Legionella pneumophila
+  - Lithobates pipiens
+  - Microbotryum violaceum
+  - Oryctolagus cuniculus
+  - Prelamin-A/C
+  - Rattus norvegicus
+  - Tyrosyl-DNA phosphodiesterase 1
+  - Unchecked
+carboxylic acid:
+  representative_compound: acetic acid
+  chembl_id: CHEMBL539
+  smiles: CC(=O)O
+  pKa:
+    cx_most_apka: 4.54
+  target_interactions:
+  - ADMET
+  - Caenorhabditis elegans
+  - DNA polymerase kappa
+  - DNA polymerase lambda
+  - Fibrinogen C domain-containing protein 1
+  - Free fatty acid receptor 2
+  - Free fatty acid receptor 3
+  - HCT-116
+  - Hepatotoxicity
+  - Lolium rigidum
+  - Meloidogyne incognita
+  - Monocarboxylate transporter 1
+  - RAW264.7
+  - Radish
+  - Solute carrier organic anion transporter family member 2B1
+  - Tyrosine-protein kinase FYN
+  - Tyrosine-protein kinase LCK
+  - Unchecked
+amine:
+  representative_compound: methylamine
+  chembl_id: CHEMBL43280
+  smiles: CN
+  pKa:
+    cx_most_bpka: 10.08
+  target_interactions:
+  - Choline transporter
+  - Plasmodium falciparum
+amide:
+  representative_compound: acetamide
+  chembl_id: CHEMBL455
+  smiles: CC(=O)NS(=O)(=O)c1ccc(N)cc1
+  pKa:
+    cx_most_apka: 4.3
+    cx_most_bpka: 2.14
+  target_interactions:
+  - ADMET
+  - Acinetobacter baumannii
+  - Adenosine A1 receptor
+  - Adenosine A2a receptor
+  - Adenosine A3 receptor
+  - Alpha-1a adrenergic receptor
+  - Alpha-2a adrenergic receptor
+  - Alpha-2b adrenergic receptor
+  - Alpha-2c adrenergic receptor
+  - Androgen Receptor
+  - Bacillus subtilis
+  - Beta-1 adrenergic receptor
+  - Beta-2 adrenergic receptor
+  - Bile salt export pump
+  - Bradykinin B2 receptor
+  - Caco-2
+  - Candida albicans
+  - Cannabinoid CB1 receptor
+  - Cholecystokinin A receptor
+  - Chromobox protein homolog 1
+  - Cryptococcus neoformans
+  - Cyclooxygenase-1
+  - Cyclooxygenase-2
+  - Delta opioid receptor
+  - Deoxynucleoside triphosphate triphosphohydrolase SAMHD1
+  - Dihydrofolate reductase
+  - Dihydropteroate synthase
+  - Dopamine D1 receptor
+  - Dopamine D2 receptor
+  - Dopamine D3 receptor
+  - Dopamine transporter
+  - Equilibrative nucleoside transporter 1
+  - Escherichia coli
+  - Estrogen receptor alpha
+  - GABA receptor alpha-1 subunit
+  - Geminin
+  - Ghrelin receptor
+  - Glucocorticoid receptor
+  - Glutamate (NMDA) receptor subunit zeta 1
+  - HERG
+  - HaCaT
+  - Hepatotoxicity
+  - Histamine H1 receptor
+  - Histamine H2 receptor
+  - Histamine H3 receptor
+  - Histone deacetylase 6
+  - Interleukin-8
+  - Kappa opioid receptor
+  - Klebsiella pneumoniae
+  - Lymphoblastoid cell
+  - Melanocortin receptor 3
+  - Melanocortin receptor 4
+  - Micrococcus luteus
+  - Monoamine oxidase A
+  - Motilin receptor
+  - Mu opioid receptor
+  - Multidrug and toxin extrusion protein 1
+  - Muscarinic acetylcholine receptor M1
+  - Muscarinic acetylcholine receptor M2
+  - Muscarinic acetylcholine receptor M3
+  - Mycobacterium tuberculosis
+  - Neuronal acetylcholine receptor protein alpha-4 subunit
+  - Neuropeptide Y receptor type 1
+  - Nonstructural protein 1
+  - Norepinephrine transporter
+  - Pasteurella multocida
+  - Phosphodiesterase 3A
+  - Phosphodiesterase 4D
+  - Pregnane X receptor
+  - Progesterone receptor
+  - Pseudomonas aeruginosa
+  - Replicase polyprotein 1ab
+  - SARS-CoV-2
+  - Serotonin 1a (5-HT1a) receptor
+  - Serotonin 2a (5-HT2a) receptor
+  - Serotonin 2b (5-HT2b) receptor
+  - Serotonin 2c (5-HT2c) receptor
+  - Serotonin 3a (5-HT3a) receptor
+  - Serotonin transporter
+  - Staphylococcus aureus
+  - Survival motor neuron protein
+  - TAR DNA-binding protein 43
+  - Thromboxane A2 receptor
+  - Thyroid stimulating hormone receptor
+  - Type-1 angiotensin II receptor
+  - Tyrosyl-DNA phosphodiesterase 1
+  - Ubiquitin carboxyl-terminal hydrolase 1
+  - Unchecked
+  - Vasopressin V1a receptor
+  - Vasopressin V2 receptor
+  - Voltage-gated L-type calcium channel alpha-1C subunit
+ester:
+  representative_compound: ethyl acetate
+  chembl_id: CHEMBL14152
+  smiles: CCOC(C)=O
+  pKa: null
+  target_interactions:
+  - ADMET
+  - Aldehyde dehydrogenase 1A1
+  - Bacillus cereus
+  - Cathepsin B
+  - Cathepsin L
+  - Cruzipain
+  - Endoplasmic reticulum-associated amyloid beta-peptide-binding protein
+  - Escherichia coli
+  - Glucagon-like peptide 1 receptor
+  - HL-60
+  - KG-1
+  - Listeria monocytogenes
+  - Nuclear receptor subfamily 1 group I member 2
+  - Oryctolagus cuniculus
+  - Prelamin-A/C
+  - Salmonella typhimurium
+  - Staphylococcus aureus
+  - Tyrosinase
+  - Vibrio parahaemolyticus
+phosphate:
+  representative_compound: phosphoric acid
+  chembl_id: CHEMBL296745
+  smiles: CCOP(=O)(OCC)Oc1ccccc1
+  pKa: null
+  target_interactions:
+  - ADMET
+  - Cholinesterase
+  - Serum paraoxonase/arylesterase 1
+  - Unchecked
+thiol:
+  representative_compound: methanethiol
+  chembl_id: CHEMBL402454
+  smiles: SC(c1ccccc1)(c1ccccc1)c1ccccc1
+  pKa:
+    cx_most_apka: 9.13
+  target_interactions:
+  - HeLa
+  - Kinesin-like protein 1
+phenol:
+  representative_compound: phenol
+  chembl_id: CHEMBL269755
+  smiles: Nc1cccc(O)c1
+  pKa:
+    cx_most_apka: 9.82
+    cx_most_bpka: 4.02
+  target_interactions:
+  - Aldehyde dehydrogenase 1A1
+  - Bacillus subtilis
+  - Bile acid receptor FXR
+  - Carbonic anhydrase I
+  - Carbonic anhydrase II
+  - Carbonic anhydrase IX
+  - Carbonic anhydrase VII
+  - Carbonic anhydrase XII
+  - Carbonic anhydrase XIV
+  - Geminin
+  - Glutaminase kidney isoform, mitochondrial
+  - L1210
+  - NON-PROTEIN TARGET
+  - Nuclear receptor ROR-gamma
+  - Plasmodium falciparum
+  - Poliovirus 1
+  - Runt-related transcription factor 1/Core-binding factor subunit beta
+  - Thioredoxin glutathione reductase
+  - Thioredoxin reductase 1, cytoplasmic
+  - Tyrosyl-DNA phosphodiesterase 1
+  - Ubiquitin carboxyl-terminal hydrolase 1
+  - Unchecked
+ether:
+  representative_compound: diethyl ether
+  chembl_id: CHEMBL16264
+  smiles: CCOCC
+  pKa: null
+  target_interactions:
+  - ADMET
+  - Lithobates pipiens
+  - Potassium channel subfamily K member 3
+imine:
+  representative_compound: phenylhydrazone
+  chembl_id: CHEMBL224214
+  smiles: N#CC(C#N)=NNc1cccc(Cl)c1
+  pKa:
+    cx_most_apka: 5.81
+  target_interactions:
+  - 4'-phosphopantetheinyl transferase ffp
+  - A2780
+  - A2780cisR
+  - A549
+  - ADMET
+  - Acinetobacter pittii
+  - Anthrax lethal factor
+  - Arachidonate 15-lipoxygenase
+  - Arachidonate 15-lipoxygenase, type II
+  - Bacillus cereus
+  - Bacillus subtilis
+  - Bacteroides fragilis
+  - Bacteroides thetaiotaomicron
+  - Beta-lactamase
+  - Bifidobacterium longum
+  - C2C12
+  - CCRF-CEM
+  - CDGSH iron-sulfur domain-containing protein 1
+  - Caenorhabditis elegans
+  - Cell membrane
+  - Clostridioides difficile
+  - Clostridium perfringens
+  - Cruzipain
+  - Cytochrome P450 3A4
+  - Endoplasmic reticulum-associated amyloid beta-peptide-binding protein
+  - Enterococcus faecalis
+  - Escherichia coli
+  - FaDu
+  - Ferritin light chain
+  - HCT-116
+  - HEK-293T
+  - HEK293
+  - HL-60
+  - HT-29
+  - HeLa
+  - HepG2
+  - HepG2-CD81
+  - Inositol monophosphatase 1
+  - J82
+  - Klebsiella aerogenes
+  - Klebsiella pneumoniae
+  - Lacticaseibacillus casei
+  - Leishmania donovani
+  - Limosilactobacillus reuteri
+  - Liver
+  - MCF7
+  - MDA-MB-231
+  - Menin/Histone-lysine N-methyltransferase MLL
+  - Microtubule-associated protein tau
+  - Molecular identity unknown
+  - Morganella morganii
+  - Multidrug efflux pump LfrA
+  - Multidrug resistance protein mdtK
+  - Mycobacterium tuberculosis
+  - Mycobacterium tuberculosis variant bovis
+  - Mycobacterium tuberculosis variant bovis BCG
+  - Mycolicibacterium smegmatis
+  - NB-4
+  - NCI-H460
+  - Nuclear receptor ROR-gamma
+  - Onchocerca volvulus
+  - PC-3
+  - Papain
+  - Plasmid efflux fluoroquinolone
+  - Plasmodium berghei
+  - Plasmodium falciparum
+  - Presenilins-associated rhomboid-like protein, mitochondrial
+  - Pseudomonas aeruginosa
+  - Putative fructose-1,6-bisphosphate aldolase
+  - QacEdelta1 SMR family efflux pump
+  - Quinolone resistance protein norA
+  - RT-112
+  - SGC-7901
+  - SH-SY5Y
+  - Saccharomyces cerevisiae
+  - Serine/threonine-protein kinase PINK1, mitochondrial
+  - Staphylococcus aureus
+  - Staphylococcus epidermidis
+  - Streptococcus mutans
+  - Survival motor neuron protein
+  - Thyroid stimulating hormone receptor
+  - Trypanosoma brucei brucei
+  - Trypanosoma cruzi
+  - Tyrosyl-DNA phosphodiesterase 1
+  - U-87 MG
+  - Unchecked
+enol:
+  representative_compound: acetylacetone
+  chembl_id: CHEMBL1088093
+  smiles: CC(=O)/C=C(/C)NNC(=O)c1ccncc1
+  pKa:
+    cx_most_apka: 13.37
+    cx_most_bpka: 3.2
+  target_interactions:
+  - J774
+  - Mycobacterium tuberculosis
+  - Unchecked
+quaternary ammonium:
+  representative_compound: tetramethylammonium
+  chembl_id: CHEMBL46486
+  smiles: C[N+](C)(C)C
+  pKa: null
+  target_interactions:
+  - ADMET
+  - Neuronal acetylcholine receptor protein alpha-7 subunit
+  - Neuronal acetylcholine receptor; alpha4/beta2
+  - Replicase polyprotein 1ab
+  - SARS-CoV-2
+disulfide:
+  representative_compound: lipoic acid
+  chembl_id: CHEMBL33864
+  smiles: O=C(O)CCCCC1CCSS1
+  pKa:
+    cx_most_apka: 4.52
+  target_interactions:
+  - 6-phospho-1-fructokinase
+  - 78 kDa glucose-regulated protein
+  - 786-0
+  - A549
+  - ACHN
+  - ADMET
+  - ATP-dependent DNA helicase Q1
+  - Acetylcholinesterase
+  - Adenosine A3 receptor
+  - Aldehyde dehydrogenase 1A1
+  - Alpha-1a adrenergic receptor
+  - Alpha-2a adrenergic receptor
+  - Androgen Receptor
+  - Bel-7402
+  - Beta-lactamase AmpC
+  - Bifunctional protein glmU
+  - Bloom syndrome protein
+  - Bromodomain adjacent to zinc finger domain protein 2B
+  - CAKI-1
+  - CCRF-CEM
+  - COLO 205
+  - Cyclooxygenase-1
+  - DNA polymerase beta
+  - DNA polymerase kappa
+  - DNA-(apurinic or apyrimidinic site) lyase
+  - DU-145
+  - Dopamine D1 receptor
+  - Dopamine D3 receptor
+  - Dopamine transporter
+  - EKVX
+  - Endoplasmic reticulum-associated amyloid beta-peptide-binding protein
+  - Estrogen receptor alpha
+  - Eukaryotic translation initiation factor 4E
+  - Gamma-aminobutyric acid receptor subunit alpha-1/alpha-2/beta-2/gamma-2
+  - Geminin
+  - HCC 2998
+  - HCT-116
+  - HCT-15
+  - HERG
+  - HL-60
+  - HOP-62
+  - HOP-92
+  - HT-29
+  - Histamine H3 receptor
+  - Histone acetyltransferase GCN5
+  - Histone deacetylase 6
+  - Histone-lysine N-methyltransferase, H3 lysine-9 specific 3
+  - Hs-578T
+  - Human immunodeficiency virus type 1 Tat protein
+  - IGROV-1
+  - K562
+  - KM12
+  - L02
+  - LOX IMVI
+  - Lethal(3)malignant brain tumor-like protein 1
+  - M14
+  - MCF7
+  - MDA-MB-231
+  - MDA-MB-435
+  - MDA-N
+  - MOLT-4
+  - Malme-3M
+  - Menin/Histone-lysine N-methyltransferase MLL
+  - Molecular identity unknown
+  - Monoamine oxidase A
+  - Mu opioid receptor
+  - Muscarinic acetylcholine receptor M1
+  - Muscarinic acetylcholine receptor M2
+  - NCI-H226
+  - NCI-H23
+  - NCI-H322M
+  - NCI-H460
+  - NCI-H522
+  - NCI/ADR-RES
+  - Norepinephrine transporter
+  - Nuclear factor erythroid 2-related factor 2
+  - Nuclear receptor ROR-gamma
+  - OVCAR-3
+  - OVCAR-4
+  - OVCAR-5
+  - OVCAR-8
+  - PBMC
+  - PC-3
+  - Peroxisome proliferator-activated receptor delta
+  - Peroxisome proliferator-activated receptor gamma
+  - Phosphodiesterase 3A
+  - Phosphodiesterase 4A
+  - Prelamin-A/C
+  - Progesterone receptor
+  - RPMI-8226
+  - Replicase polyprotein 1ab
+  - Retinoid X receptor alpha
+  - Runt-related transcription factor 1/Core-binding factor subunit beta
+  - SARS-CoV-2
+  - SF-268
+  - SF-295
+  - SF-539
+  - SGC-7901
+  - SH-SY5Y
+  - SK-MEL-2
+  - SK-MEL-28
+  - SK-MEL-5
+  - SN12C
+  - SNB-19
+  - SNB-75
+  - SR
+  - SUMO-activating enzyme
+  - SW-620
+  - Serotonin 1a (5-HT1a) receptor
+  - Serotonin 2b (5-HT2b) receptor
+  - Serotonin transporter
+  - T47D
+  - TAR DNA-binding protein 43
+  - TK-10
+  - Thrombin
+  - Thromboxane A2 receptor
+  - Thyroid hormone receptor beta-1
+  - Thyroid stimulating hormone receptor
+  - Tyrosyl-DNA phosphodiesterase 1
+  - U-251
+  - UACC-257
+  - UO-31
+  - Unchecked
+  - Vascular endothelial growth factor receptor 2
+isoprenyl:
+  representative_compound: prenol
+  chembl_id: CHEMBL266195
+  smiles: C=CCc1ccccc1OCC(O)CNC(C)C
+  pKa:
+    cx_most_bpka: 9.67
+  target_interactions:
+  - ADMET
+  - Acetylcholinesterase
+  - Adenosine A1 receptor
+  - Adenosine A2a receptor
+  - Adenosine A3 receptor
+  - Adrenergic receptor beta
+  - Alpha-1a adrenergic receptor
+  - Alpha-2a adrenergic receptor
+  - Alpha-2b adrenergic receptor
+  - Alpha-2c adrenergic receptor
+  - Androgen Receptor
+  - Ataxin-2
+  - Beta-1 adrenergic receptor
+  - Beta-2 adrenergic receptor
+  - Beta-3 adrenergic receptor
+  - Bile salt export pump
+  - Bradykinin B2 receptor
+  - Brain
+  - Caco-2
+  - Canalicular multispecific organic anion transporter 1
+  - Canalicular multispecific organic anion transporter 2
+  - Candida albicans
+  - Cannabinoid CB1 receptor
+  - Cavia porcellus
+  - Cerebroside-sulfatase
+  - Cholecystokinin A receptor
+  - Cholecystokinin B receptor
+  - Cyclooxygenase-1
+  - Cyclooxygenase-2
+  - Cytochrome P450 2J2
+  - DNA polymerase kappa
+  - Delta opioid receptor
+  - Deoxynucleoside triphosphate triphosphohydrolase SAMHD1
+  - Dopamine D1 receptor
+  - Dopamine D2 receptor
+  - Dopamine D3 receptor
+  - Dopamine transporter
+  - Endothelin receptor ET-A
+  - Equilibrative nucleoside transporter 1
+  - Estrogen receptor alpha
+  - GABA receptor alpha-1 subunit
+  - Gamma-aminobutyric acid receptor subunit alpha-1/alpha-2/beta-2/gamma-2
+  - Ghrelin receptor
+  - Glucocorticoid receptor
+  - Glutamate (NMDA) receptor subunit zeta 1
+  - HERG
+  - Hepatocyte
+  - Histamine H1 receptor
+  - Histamine H2 receptor
+  - Histamine H3 receptor
+  - Histone-lysine N-methyltransferase, H3 lysine-9 specific 3
+  - Kappa opioid receptor
+  - Liposome
+  - Melanocortin receptor 3
+  - Monoamine oxidase A
+  - Motilin receptor
+  - Mu opioid receptor
+  - Multidrug resistance-associated protein 4
+  - Muscarinic acetylcholine receptor M1
+  - Muscarinic acetylcholine receptor M2
+  - Muscarinic acetylcholine receptor M3
+  - NON-PROTEIN TARGET
+  - Neuronal acetylcholine receptor protein alpha-4 subunit
+  - Neuropeptide Y receptor type 1
+  - Norepinephrine transporter
+  - Oryctolagus cuniculus
+  - P-glycoprotein 1
+  - Peptide N-myristoyltransferase
+  - Peripheral myelin protein 22
+  - Phosphodiesterase 3A
+  - Phosphodiesterase 4A
+  - Phosphodiesterase 4D
+  - Plasma
+  - Plasmodium falciparum
+  - Pregnane X receptor
+  - Prelamin-A/C
+  - Progesterone receptor
+  - SARS-CoV-2
+  - Serotonin 1a (5-HT1a) receptor
+  - Serotonin 2a (5-HT2a) receptor
+  - Serotonin 2b (5-HT2b) receptor
+  - Serotonin 2c (5-HT2c) receptor
+  - Serotonin 3a (5-HT3a) receptor
+  - Serotonin transporter
+  - Serum albumin
+  - Solute carrier organic anion transporter family member 1B1
+  - Solute carrier organic anion transporter family member 1B3
+  - Squalene synthetase
+  - Thrombin
+  - Thromboxane A2 receptor
+  - Type-1 angiotensin II receptor
+  - Tyrosine-protein kinase SRC
+  - Unchecked
+  - Vascular endothelial growth factor receptor 2
+  - Vasopressin V1a receptor
+  - Vasopressin V2 receptor
+  - Voltage-gated L-type calcium channel alpha-1C subunit
+azide:
+  representative_compound: CHEMBL3236174
+  chembl_id: CHEMBL3236174
+  smiles: '[N-]=[N+]=Nc1ccccc1'
+  pKa: null
+  target_interactions:
+  - NAD-dependent deacetylase sirtuin 2
+alkyne:
+  representative_compound: propyne
+  chembl_id: CHEMBL116902
+  smiles: C#CC
+  pKa: null
+  target_interactions: null
+boronic acid:
+  representative_compound: phenylboronic acid
+  chembl_id: CHEMBL21485
+  smiles: OB(O)c1ccccc1
+  pKa: null
+  target_interactions:
+  - ADMET
+  - Acetylcholinesterase
+  - Alpha carbonic anhydrase
+  - Alpha-chymotrypsin
+  - Anandamide amidohydrolase
+  - Astrosclerin-3
+  - Autotaxin
+  - Beta-lactamase AmpC
+  - Beta-lactamase TEM
+  - Carbonic anhydrase
+  - Carbonic anhydrase 15
+  - Carbonic anhydrase I
+  - Carbonic anhydrase II
+  - Carbonic anhydrase III
+  - Carbonic anhydrase IV
+  - Carbonic anhydrase IX
+  - Carbonic anhydrase V
+  - Carbonic anhydrase VA
+  - Carbonic anhydrase VB
+  - Carbonic anhydrase VI
+  - Carbonic anhydrase VII
+  - Carbonic anhydrase XII
+  - Carbonic anhydrase XIII
+  - Carbonic anhydrase XIV
+  - Class A carbapenemase KPC-2
+  - D-alanyl-D-alanine carboxypeptidase
+  - Monoglyceride lipase
+  - ORAI 1/2/3
+  - Penicillin-binding protein 2X
+  - Penicillin-binding protein 2x
+  - Quinolone resistance protein norA
+  - Replicase polyprotein 1ab
+  - SARS-CoV-2
+  - SH-SY5Y
+  - Staphylococcus aureus
+  - Subtilisin
+  - Subtilisin/kexin type 9
+  - Succinyl-diaminopimelate desuccinylase
+  - Transient receptor potential cation channel subfamily V member 6
+  - Trypanosoma cruzi
+  - Trypsin I
+  - Uncharacterized protein Rv1284/MT1322
+  - Unchecked
+maleimide:
+  representative_compound: maleimide
+  chembl_id: CHEMBL6291
+  smiles: Cn1cc(C2=C(c3cn(CCCSC(=N)N)c4ccccc34)C(=O)NC2=O)c2ccccc21
+  pKa:
+    cx_most_apka: 9.66
+    cx_most_bpka: 10.64
+  target_interactions:
+  - 3-phosphoinositide dependent protein kinase-1
+  - 4'-phosphopantetheinyl transferase ffp
+  - BR serine/threonine-protein kinase 2
+  - Beta-chymotrypsin
+  - Beta-glucocerebrosidase
+  - Beta-lactamase AmpC
+  - CDK12/Cyclin K
+  - CaM kinase I alpha
+  - CaM-kinase kinase alpha
+  - CaM-kinase kinase beta
+  - Casein kinase I delta
+  - Casein kinase II
+  - Cyclin-dependent kinase 13/Cyclin-K
+  - Cyclin-dependent kinase 2/cyclin A
+  - DNA polymerase iota
+  - Dual specificity mitogen-activated protein kinase kinase 1
+  - Dual-specificity tyrosine-phosphorylation regulated kinase 1A
+  - Dual-specificity tyrosine-phosphorylation regulated kinase 2
+  - Dual-specificity tyrosine-phosphorylation regulated kinase 3
+  - Ephrin type-A receptor 2
+  - Epidermal growth factor receptor erbB1
+  - Ferritin light chain
+  - Fibroblast growth factor receptor 1
+  - G protein-coupled receptor kinase 6
+  - Glycogen synthase kinase-3 beta
+  - H4
+  - HCT-116
+  - HepG2
+  - Histone-lysine N-methyltransferase, H3 lysine-9 specific 3
+  - Homeodomain-interacting protein kinase 1
+  - Homeodomain-interacting protein kinase 2
+  - Homeodomain-interacting protein kinase 3
+  - Inhibitor of nuclear factor kappa B kinase beta subunit
+  - MAP kinase ERK1
+  - MAP kinase ERK2
+  - MAP kinase p38 alpha
+  - MAP kinase p38 beta
+  - MAP kinase p38 delta
+  - MAP kinase p38 gamma
+  - MAP kinase signal-integrating kinase 2
+  - MAP kinase-activated protein kinase 2
+  - MAP kinase-activated protein kinase 3
+  - MAP kinase-activated protein kinase 5
+  - MAP kinase-interacting serine/threonine-protein kinase MNK1
+  - MCF7
+  - MDA-MB-231
+  - Malate dehydrogenase
+  - Maternal embryonic leucine zipper kinase
+  - Menin/Histone-lysine N-methyltransferase MLL
+  - Microtubule-associated protein tau
+  - Mitogen-activated protein kinase 15
+  - Mitogen-activated protein kinase kinase kinase 8
+  - Mitogen-activated protein kinase kinase kinase kinase 1
+  - Mothers against decapentaplegic homolog 3
+  - Myosin light chain kinase, smooth muscle
+  - NAD-dependent deacetylase HST2
+  - NAD-dependent deacetylase sirtuin 1
+  - NAD-dependent deacetylase sirtuin 2
+  - NAD-dependent deacetylase sirtuin 3
+  - Nuclear receptor ROR-gamma
+  - PC-3
+  - Platelet-derived growth factor receptor alpha
+  - Platelet-derived growth factor receptor beta
+  - Protein kinase C (PKC)
+  - Protein kinase C alpha
+  - Protein kinase C beta
+  - Protein kinase C delta
+  - Protein kinase C epsilon
+  - Protein kinase C eta
+  - Protein kinase C gamma
+  - Protein kinase C mu
+  - Protein kinase C theta
+  - Protein kinase C zeta
+  - Protein kinase N2
+  - Putative fructose-1,6-bisphosphate aldolase
+  - Pyruvate dehydrogenase kinase isoform 1
+  - Replicase polyprotein 1ab
+  - Rho-associated protein kinase 2
+  - Ribosomal protein S6 kinase 1
+  - Ribosomal protein S6 kinase alpha 1
+  - Ribosomal protein S6 kinase alpha 2
+  - Ribosomal protein S6 kinase alpha 3
+  - Ribosomal protein S6 kinase alpha 5
+  - Runt-related transcription factor 1/Core-binding factor subunit beta
+  - SARS-CoV-2
+  - Serine/threonine-protein kinase 10
+  - Serine/threonine-protein kinase AKT
+  - Serine/threonine-protein kinase AKT2
+  - Serine/threonine-protein kinase Aurora-B
+  - Serine/threonine-protein kinase Aurora-C
+  - Serine/threonine-protein kinase Chk1
+  - Serine/threonine-protein kinase Chk2
+  - Serine/threonine-protein kinase EEF2K
+  - Serine/threonine-protein kinase MST2
+  - Serine/threonine-protein kinase NEK2
+  - Serine/threonine-protein kinase NEK6
+  - Serine/threonine-protein kinase NEK7
+  - Serine/threonine-protein kinase PAK 4
+  - Serine/threonine-protein kinase PAK6
+  - Serine/threonine-protein kinase PAK7
+  - Serine/threonine-protein kinase PIM1
+  - Serine/threonine-protein kinase PIM2
+  - Serine/threonine-protein kinase PIM3
+  - Serine/threonine-protein kinase PLK1
+  - Serine/threonine-protein kinase SRPK1
+  - Serine/threonine-protein kinase Sgk1
+  - Serine/threonine-protein kinase VRK1
+  - Serine/threonine-protein kinase VRK2
+  - Serine/threonine-protein kinase c-TAK1
+  - Stem cell growth factor receptor
+  - Tyrosine-protein kinase ABL
+  - Tyrosine-protein kinase CSK
+  - Tyrosine-protein kinase LCK
+  - Tyrosine-protein kinase SRC
+  - Tyrosine-protein kinase receptor RET
+  - Tyrosyl-DNA phosphodiesterase 1
+  - Unchecked
+  - Vascular endothelial growth factor receptor 1
+  - Vascular endothelial growth factor receptor 2
+  - c-Jun N-terminal kinase 1
+  - c-Jun N-terminal kinase 2
+  - c-Jun N-terminal kinase 3
+  - cAMP-dependent protein kinase alpha-catalytic subunit
+fluoro:
+  representative_compound: fluoromethane
+  chembl_id: CHEMBL67511
+  smiles: NS(=O)(=O)C(F)(F)F
+  pKa:
+    cx_most_apka: 6.19
+  target_interactions:
+  - ADMET
+  - Carbonic anhydrase I
+  - Carbonic anhydrase II
+  - Carbonic anhydrase VII
+  - Carbonic anhydrase XII
+  - Carbonic anhydrase XIII
+  - Unchecked
+nitro:
+  representative_compound: nitromethane
+  chembl_id: CHEMBL276924
+  smiles: C[N+](=O)[O-]
+  pKa:
+    cx_most_apka: 9.14
+  target_interactions:
+  - A-431
+  - ADMET
+  - CAPAN-1
+  - Ca-Ski
+  - Calu-6
+  - Escherichia coli
+  - HaCaT
+  - MeWo
+  - Methionine aminopeptidase 1
+  - Methionine aminopeptidase 2
+  - Pseudomonas aeruginosa
+  - Staphylococcus aureus
+  - Thrombin
+  - UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+  - Unchecked
+nitrile:
+  representative_compound: acetonitrile
+  chembl_id: CHEMBL45211
+  smiles: CC#N
+  pKa: null
+  target_interactions:
+  - ADMET
+  - Nuclear factor erythroid 2-related factor 2
+  - Nuclear receptor subfamily 1 group I member 2
+sulfonate:
+  representative_compound: methanesulfonic acid
+  chembl_id: CHEMBL23307
+  smiles: CCCCCCCCCCCCOS(C)(=O)=O
+  pKa: null
+  target_interactions:
+  - Steryl-sulfatase
+urea:
+  representative_compound: urea
+  chembl_id: CHEMBL467
+  smiles: NC(=O)NO
+  pKa:
+    cx_most_apka: 10.14
+  target_interactions:
+  - 786-0
+  - A498
+  - A549
+  - ACHN
+  - ADMET
+  - Acetylcholinesterase
+  - Adenosine A1 receptor
+  - Adenosine A2a receptor
+  - Adenosine A3 receptor
+  - Aldose reductase
+  - Alpha-1a adrenergic receptor
+  - Alpha-1b adrenergic receptor
+  - Alpha-1d adrenergic receptor
+  - Alpha-2a adrenergic receptor
+  - Alpha-2b adrenergic receptor
+  - Alpha-2c adrenergic receptor
+  - Androgen Receptor
+  - Angiotensin II type 2 (AT-2) receptor
+  - Angiotensin-converting enzyme
+  - Arachidonate 15-lipoxygenase
+  - BT-549
+  - Beta-1 adrenergic receptor
+  - Beta-2 adrenergic receptor
+  - Beta-3 adrenergic receptor
+  - Bile salt export pump
+  - Bloom syndrome protein
+  - Bradykinin B2 receptor
+  - C-C chemokine receptor type 2
+  - C-C chemokine receptor type 4
+  - C-C chemokine receptor type 5
+  - CAKI-1
+  - CCRF-CEM
+  - COLO 205
+  - Calcitonin receptor
+  - Canalicular multispecific organic anion transporter 1
+  - Canalicular multispecific organic anion transporter 2
+  - Cannabinoid CB1 receptor
+  - Carbonic anhydrase I
+  - Carbonic anhydrase II
+  - Carbonic anhydrase IV
+  - Carbonic anhydrase IX
+  - Carbonic anhydrase VA
+  - Caspase-1
+  - Cathepsin G
+  - Cholecystokinin A receptor
+  - Cyclooxygenase-1
+  - Cyclooxygenase-2
+  - Cysteinyl leukotriene receptor 1
+  - Cytochrome P450 1A2
+  - Cytochrome P450 2A6
+  - Cytochrome P450 2C19
+  - Cytochrome P450 2C9
+  - Cytochrome P450 2D6
+  - Cytochrome P450 2E1
+  - Cytochrome P450 3A4
+  - DLD-1
+  - DMS-114
+  - DMS-273
+  - DU-145
+  - Delta opioid receptor
+  - Deoxynucleoside triphosphate triphosphohydrolase SAMHD1
+  - Dihydrofolate reductase
+  - Dopamine D1 receptor
+  - Dopamine D2 receptor
+  - Dopamine D3 receptor
+  - Dopamine D4 receptor
+  - Dopamine transporter
+  - EKVX
+  - Endothelin receptor ET-A
+  - Epidermal growth factor receptor erbB1
+  - Erythrocyte
+  - Estrogen receptor alpha
+  - Estrogen receptor beta
+  - Gamma-aminobutyric acid receptor subunit alpha-1/alpha-2/beta-2/gamma-2
+  - Glucocorticoid receptor
+  - Glycine receptor
+  - HCC 2998
+  - HCT-116
+  - HCT-15
+  - HERG
+  - HL-60
+  - HMG-CoA reductase
+  - HOP-18
+  - HOP-62
+  - HOP-92
+  - HT-29
+  - HeLa
+  - Hepatotoxicity
+  - Histamine H1 receptor
+  - Histamine H2 receptor
+  - Histamine H3 receptor
+  - Histone deacetylase 6
+  - Histone-lysine N-methyltransferase, H3 lysine-9 specific 3
+  - Hs-578T
+  - HuT78
+  - Human immunodeficiency virus 1
+  - IGROV-1
+  - Inositol monophosphatase 1
+  - Insulin receptor
+  - Interleukin-8 receptor A
+  - Interleukin-8 receptor B
+  - K562
+  - K562-Lucena 1
+  - KB
+  - KM-20L2
+  - KM12
+  - Kappa opioid receptor
+  - L1210
+  - LOX IMVI
+  - LXFL 529
+  - Leishmania mexicana
+  - Leukocyte common antigen
+  - Leukocyte elastase
+  - Leukotriene C4 synthase
+  - M14
+  - M19-MEL
+  - MAP kinase ERK1
+  - MAP kinase ERK2
+  - MAP kinase p38 alpha
+  - MCF7
+  - MDA-MB-231
+  - MDA-MB-435
+  - MDA-N
+  - MOLT-4
+  - Malme-3M
+  - Matrix metalloproteinase 3
+  - Matrix metalloproteinase 9
+  - Matrix metalloproteinase-1
+  - Melanocortin receptor 3
+  - Melanocortin receptor 4
+  - Melanocortin receptor 5
+  - Mitochondrial amidoxime reducing component 2
+  - Mitochondrial amidoxime-reducing component 1
+  - Monoamine oxidase A
+  - Monoamine oxidase B
+  - Mu opioid receptor
+  - Multidrug resistance-associated protein 4
+  - Muscarinic acetylcholine receptor M1
+  - Muscarinic acetylcholine receptor M2
+  - Muscarinic acetylcholine receptor M3
+  - Muscarinic acetylcholine receptor M4
+  - Muscarinic acetylcholine receptor M5
+  - NCI-H226
+  - NCI-H23
+  - NCI-H322M
+  - NCI-H460
+  - NCI-H522
+  - NCI/ADR-RES
+  - NON-PROTEIN TARGET
+  - Neurokinin 1 receptor
+  - Neurokinin 2 receptor
+  - Neuropeptide Y receptor type 1
+  - Neuropeptide Y receptor type 2
+  - Nitric oxide synthase, inducible
+  - Nitric-oxide synthase, brain
+  - Norepinephrine transporter
+  - Nuclear factor NF-kappa-B p105 subunit
+  - OVCAR-3
+  - OVCAR-4
+  - OVCAR-5
+  - OVCAR-8
+  - P388
+  - P388/ADR
+  - PC-3
+  - Peripheral myelin protein 22
+  - Phosphodiesterase 3A
+  - Phosphodiesterase 4A
+  - Phosphodiesterase 5A
+  - Phospholipidosis
+  - Phosphoserine phosphatase SerB2
+  - Plasma
+  - Plasmodium falciparum
+  - Platelet activating factor receptor
+  - Prelamin-A/C
+  - Progesterone receptor
+  - Protein kinase C alpha
+  - RPMI-8226
+  - RXF 393
+  - RXF 631
+  - Rattus norvegicus
+  - Receptor protein-tyrosine kinase erbB-2
+  - Replicase polyprotein 1ab
+  - Ribonucleoside-diphosphate reductase M1 chain
+  - SARS-CoV-2
+  - SF-268
+  - SF-295
+  - SF-539
+  - SK-MEL-2
+  - SK-MEL-28
+  - SK-MEL-5
+  - SK-OV-3
+  - SN12C
+  - SN12K1
+  - SNB-19
+  - SNB-75
+  - SNB-78
+  - SR
+  - SW-620
+  - SW480
+  - Saccharomyces cerevisiae
+  - Serine/threonine protein phosphatase 2B catalytic subunit, alpha isoform
+  - Serine/threonine-protein kinase tousled-like 2
+  - Serotonin 1a (5-HT1a) receptor
+  - Serotonin 1b (5-HT1b) receptor
+  - Serotonin 2a (5-HT2a) receptor
+  - Serotonin 2b (5-HT2b) receptor
+  - Serotonin 2c (5-HT2c) receptor
+  - Serotonin 4 (5-HT4) receptor
+  - Serotonin 6 (5-HT6) receptor
+  - Serotonin transporter
+  - Sigma opioid receptor
+  - Solute carrier organic anion transporter family member 1B1
+  - Solute carrier organic anion transporter family member 1B3
+  - T47D
+  - TK-10
+  - Thioredoxin reductase 1, cytoplasmic
+  - Thrombin
+  - Thromboxane A2 receptor
+  - Thromboxane-A synthase
+  - Thyroid stimulating hormone receptor
+  - Toxoplasma gondii
+  - Tyrosine-protein kinase FYN
+  - Tyrosine-protein kinase LCK
+  - U-251
+  - U-937
+  - U2OS
+  - UACC-257
+  - UACC-62
+  - UO-31
+  - Unchecked
+  - Urease subunit alpha/Urease subunit beta
+  - Vascular endothelial growth factor receptor 1
+  - Vascular endothelial growth factor receptor 2
+  - Vasoactive intestinal polypeptide receptor 1
+  - Vasopressin V1a receptor
+  - Vero
+  - Vitamin D receptor
+  - XF498
+guanidinium:
+  representative_compound: guanidine
+  chembl_id: CHEMBL12571
+  smiles: N/C(=N\O)N/N=C\OS(=O)(=O)O
+  pKa:
+    cx_most_apka: -2.22
+    cx_most_bpka: 3.33
+  target_interactions:
+  - L1210
+  - Rous sarcoma virus
